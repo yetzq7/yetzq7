@@ -16,5 +16,5 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1214981004192784404)
 
-## Owner of Project Ruby (500+)
+ **Owner of Project Ruby (500+)**
 **https://discord.gg/UnucFZzNfs**
