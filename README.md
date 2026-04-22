@@ -3,6 +3,7 @@
 <img src="https://i.ibb.co/tp0gTpgV/New-Project-13.png" width="100" align="left" style="border-radius:50%; margin-right:10px;" />
 
 **Learning C/C++/Java/Rust/TypeScript!**
+**15 y/o**
 
 <br clear="left"/>
 
