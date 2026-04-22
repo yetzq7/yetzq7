@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Yetzq!
 
-<!--
-**yetzq7/yetzq7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="140">
+      <img src="https://i.ibb.co/tp0gTpgV/New-Project-13.png" width="120" style="border-radius:50%" />
+    </td>
+    <td>
 
-Here are some ideas to get you started:
+## About me:
+- Learning C/C++/Java/Rust and a bit of TypeScript  
+- On this GitHub I'm documenting my journey  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    </td>
+  </tr>
+</table>
+
+---
+
+## Languages (Learning):
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## Contact me:
+
+[![Discord](https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1214981004192784404)
