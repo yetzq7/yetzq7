@@ -14,5 +14,5 @@ Learning C/C++/Java/Rust/TypeScript
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
-[Discord](https://discord.com/users/1214981004192784404)
+[![Discord](https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1214981004192784404)
 
