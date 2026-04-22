@@ -4,7 +4,7 @@
 
 # **15 y/o**
 
-**Learning C/C++/Java/Rust/TypeScript!**
+# **Learning C/C++/Java/Rust/TypeScript!**
 
 <br clear="left"/>
 
