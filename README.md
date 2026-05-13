@@ -1,11 +1,4 @@
-# Hi, I'm Yetzq 👋
-
-<img src="![Imgbb](https://i.ibb.co/0yptPjWG/FRACTUREBANNER12.png)" width="300" align="left" style="border-radius:50%; margin-right:10px;" />
-
- **15 y/o**
-
-## **Learning C++/C/Go/Java**
-<br clear="left"/>
+# hi im yetzq
 
 ## Interested in:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
