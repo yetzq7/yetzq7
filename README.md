@@ -1,5 +1,6 @@
 # Hi, im yetzq!
 
+## Owner of
 ![Imgbb](https://i.ibb.co/0yptPjWG/FRACTUREBANNER12.png)
 
 ## Interested in:
