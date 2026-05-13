@@ -2,9 +2,9 @@
 
 <img src="https://i.ibb.co/tp0gTpgV/New-Project-13.png" width="100" align="left" style="border-radius:50%; margin-right:10px;" />
 
-**15 y/o**
+## **15 y/o**
 
-**Learning C++/C/Go/Java**
+## **Learning C++/C/Go/Java**
 
 <br clear="left"/>
 
