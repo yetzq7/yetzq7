@@ -1,6 +1,6 @@
 # Hi, im yetzq!
 
-## Owner of
+## Owner of Project Fracture
 ![Imgbb](https://i.ibb.co/0yptPjWG/FRACTUREBANNER12.png)
 
 ## Interested in:
