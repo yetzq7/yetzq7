@@ -1,6 +1,6 @@
 # Hi, I'm Yetzq 👋
 
-<img src="[Imgbb](https://i.ibb.co/0yptPjWG/FRACTUREBANNER12.png)" width="300" align="left" style="border-radius:50%; margin-right:10px;" />
+<img src="![Imgbb](https://i.ibb.co/0yptPjWG/FRACTUREBANNER12.png)" width="300" align="left" style="border-radius:50%; margin-right:10px;" />
 
  **15 y/o**
 
