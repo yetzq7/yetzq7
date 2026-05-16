@@ -1,5 +1,5 @@
 # Hi, im yetzq! 👋🏼
-15 y/o
+## 15 y/o
 
 
 ## Interested in:
@@ -9,6 +9,4 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1214981004192784404)
 
-## Owner of Project Fracture
-![Imgbb](https://i.ibb.co/PRdRVvh/fracture-git.png)
 
