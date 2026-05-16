@@ -1,5 +1,5 @@
 # Hi, im yetzq! 👋🏼
-## 15 y/o
+# 15 y/o
 
 
 ## Interested in:
