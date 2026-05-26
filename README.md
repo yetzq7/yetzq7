@@ -1,7 +1,3 @@
-# Hi, im yetzq! 👋🏼
-**15 y/o**
-
-
 ## Interested in:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -10,6 +6,5 @@
 
 
 
-[![Discord](https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1214981004192784404)
-
+[![fnproj's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?theme=dark&width=512)](https://github.com/the-snesler/discord-github-preview)
 
