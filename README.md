@@ -7,5 +7,4 @@
 
 
 
-[![fnproj's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?theme=custom&colorB1=111214&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=FF0000&width=512)](https://github.com/the-snesler/discord-github-preview)
-
+[![fnproj's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?banner=https%3A%2F%2Fi.ibb.co%2Fb5FsBTHL%2FNew-Project-1.png&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512&layout=compact)](https://github.com/the-snesler/discord-github-preview)
