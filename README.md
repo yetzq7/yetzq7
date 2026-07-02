@@ -19,4 +19,5 @@
   </a>
 </div>
 
+
 [![fnproj's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?banner=https%3A%2F%2Fi.ibb.co%2Fb5FsBTHL%2FNew-Project-1.png&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesler/discord-github-preview)
