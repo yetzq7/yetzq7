@@ -29,7 +29,8 @@
 
 ###
 
-<p data-importer="text" align="left">- **15 y/o puertorrican**<br><br>- **I'm currently focusing on Javascript** 🔥</p>
+**15 y/o puertorrican** 
+**I'm currently focusing on Javascript**
 
 ###
 
