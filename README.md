@@ -6,7 +6,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## My socials:
 
 <div data-importer="socials" align="left">
   <a href="www.youtube.com/@Yetzq" target="_blank">
