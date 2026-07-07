@@ -20,6 +20,4 @@
 </div>
 
 
-## **Founder of [Prime](https://github.com/PrimeOGFN/Prime)**
-
-[![fnproj's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?banner=https%3A%2F%2Fi.ibb.co%2Fb5FsBTHL%2FNew-Project-1.png&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesler/discord-github-preview)
+[![yetzq's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?banner=https%3A%2F%2Fi.ibb.co%2FN63QZbgp%2Fgradient67.png&theme=custom&colorB1=9023CF&colorB2=000000&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=512)](https://github.com/the-snesler/discord-github-preview)
