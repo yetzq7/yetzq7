@@ -1,3 +1,4 @@
+**hi im yetz, i like to learn new stuff and im currently learning how to reverse engeneer with x64dg**
 
 # Intersted in learning:
 
