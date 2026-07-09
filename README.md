@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-**Owner of [Prime](htps://github.com/PrimeOGFN/Prim)**
+## Owner of [Prime](https://github.com/PrimeOGFN/Prime)
 
 
 <div data-importer="socials" align="left">
