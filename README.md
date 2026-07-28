@@ -21,4 +21,4 @@
 </div>
 
 
-[![yetzq's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?aboutMe=I+like+c%2Fc%2B%2B+and+javascript&banner=https%3A%2F%2Fi.ibb.co%2FqY9xsdsr%2F1xv5ejvwfcab1.jpg&theme=nitroLight&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesler/discord-github-preview)
+[![yetzq's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?aboutMe=Interested+in+Javascript%2C+C+and+C%2B%2B&pronouns=he%2Fhim&theme=nitroLight&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesler/discord-github-preview)
