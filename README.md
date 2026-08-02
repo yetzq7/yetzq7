@@ -1,24 +1,13 @@
-**hi im yetz, i like to learn new stuff and im currently learning how to reverse engeneer with x64dg**
+**Hi im yetz i love learning new things and random stuff**
 
-# Intersted in learning:
+## Currently Learning:
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-AA0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
-### Founder of Fracture (W.I.P)
 
-
-<div data-importer="socials" align="left">
-  <a href="https://www.youtube.com/@Yetzq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/krxk8RGZnf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-
-[![yetzq's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?aboutMe=Interested+in+Javascript%2C+C+and+C%2B%2B&pronouns=he%2Fhim&theme=nitroLight&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesler/discord-github-preview)
+[![yetzq's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?theme=custom&colorB1=4D0216&colorB2=080808&colorB3=505059&colorT1=FFFFFF&colorT2=FFFFFF&width=512)](https://github.com/the-snesler/discord-github-preview)
