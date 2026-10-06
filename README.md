@@ -13,4 +13,4 @@
 
 
 
-[![yetzq's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?theme=dark&width=512&nameColor1=ec4899)](https://github.com/the-snesler/discord-github-preview)
+[![yetzq's Discord status](https://dsc-readme.tsuni.dev/api/user/1214981004192784404?theme=custom&colorB1=FF5454&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=512)](https://github.com/the-snesler/discord-github-preview)
